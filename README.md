@@ -5,6 +5,6 @@ In the project, the program is used for Prediction of the future 3-year monsoon 
 ## What's the structure of the program?
 *Net.ipynb* is to test the net structuce.\
 *data process* is to normalize the original data from the site.\
-*train.py* is to train the data.\
+*train.py* is to train the data.
 ## Is the outcome of the program concrete?
 (The program is under construction.)
