@@ -9,4 +9,8 @@ fig=plt.figure(dpi=100)
 ax=fig.add_subplot(projection=ccrs.PlateCarree())
 
 #input the data 
-with open("")
+T=[]
+uwind=[]
+vwind=[]
+with open("/Users/rowenxu/LSTM_EA_Monsoon/Data/output/Nino34_data.txt",'r') as f:
+    
